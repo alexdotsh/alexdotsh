@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![alexmirkhaydarov's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexdotsh&show_icons=true&theme=react&count_private=true)
+[![Alex Mirkhaydarov's GitHub stats](https://githubcard.com/alexdotsh.svg)](https://githubcard.com/alexdotsh/card?utm_source=github&utm_medium=readme)
